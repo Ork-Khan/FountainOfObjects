@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orkhan.mammadli\\OneDrive - SOCAR Downstream Management\\Desktop\\player\u0027s Guide C sharp projects\\FountainOfObjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DDEE3-2662-4161-B23B-E0BE677031FA}|FountainOfObjects.csproj|c:\\users\\orkhan.mammadli\\onedrive - socar downstream management\\desktop\\player\u0027s guide c sharp projects\\fountainofobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3DDEE3-2662-4161-B23B-E0BE677031FA}|FountainOfObjects.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\orkhan.mammadli\\OneDrive - SOCAR Downstream Management\\Desktop\\player\u0027s Guide C sharp projects\\FountainOfObjects\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\orkhan.mammadli\\OneDrive - SOCAR Downstream Management\\Desktop\\player\u0027s Guide C sharp projects\\FountainOfObjects\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T09:21:34.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
