@@ -1,2 +1,0 @@
-C:\Users\orkhan.mammadli\OneDrive - SOCAR Downstream Management\Desktop\player's Guide C sharp projects\FountainOfObjects\bin\Release\net8.0\publish\win-x64\FountainOfObjects.pdb
-C:\Users\orkhan.mammadli\OneDrive - SOCAR Downstream Management\Desktop\player's Guide C sharp projects\FountainOfObjects\bin\Release\net8.0\publish\win-x64\FountainOfObjects.exe
